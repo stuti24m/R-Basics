@@ -1,2 +1,11 @@
 # R-Basics
-This repository consists of R programming tutorials. | Working on it.
+This repository consists of R programming tutorials.
+
+## ✔Content --
+    - Basics
+    - loops
+    - functions
+    - qplot()
+    - matplot()
+    - ggplot()
+    
