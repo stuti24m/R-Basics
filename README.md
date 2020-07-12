@@ -1,5 +1,6 @@
-# R-Basics
-This repository consists of R programming tutorials.
+# R-Basics --
+
+This repository consists of **R programming tutorials.**
 
 ## ✔Content --
     - Basics
