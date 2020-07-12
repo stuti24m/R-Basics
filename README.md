@@ -8,4 +8,7 @@ This repository consists of R programming tutorials.
     - qplot()
     - matplot()
     - ggplot()
+    - vectors
+    - matrix
+    - subsetting
     
