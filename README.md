@@ -6,6 +6,7 @@ This repository consists of **R programming tutorials.**
     - Basics
     - loops
     - functions
+    - pointplot()
     - qplot()
     - matplot()
     - ggplot()
